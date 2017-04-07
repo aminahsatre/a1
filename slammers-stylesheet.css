@@ -1,0 +1,21 @@
+h1 {
+    font-size: 3em;
+    color: blue;
+    family: helvetica,arial,sans-serif;
+}
+
+h2 {
+    font-size: 2em;
+    color: blue;
+    family: helvetica,arial,sans-serif;
+}
+
+p {line-height: 1.5em;}
+
+ul {background: lightblue;}
+
+li {font-weight:normal;}
+
+table, th, td {
+    border: 1px solid black;
+}
